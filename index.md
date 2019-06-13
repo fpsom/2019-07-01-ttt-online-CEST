@@ -279,9 +279,9 @@ for more information.
 <hr/>
 
 <p id="etherpad">
-  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
+  <strong>Shared Document:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
   <br/>
-  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this Google Doc for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
 {% endif %}
